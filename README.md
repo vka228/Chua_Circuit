@@ -1,7 +1,7 @@
 ### A Random Number Generator Based on Chua Circuit
 *The winning report of a [67th MIPT All-Russian Scientific Conference](https://conf.mipt.ru/)*
 
-[bebememe](chuas_circuit_evolution_lines_close_anot_3.gif)
+![bebememe](chuas_circuit_evolution_lines_close_anot_3.gif)
 
 ## Overview
 This project implements a hardware-inspired random number generator based on the chaotic behavior of Chua's circuit. There is a numerical solution of the system describing Chua circuit and algorythms for processing data from an experimental setup. 
