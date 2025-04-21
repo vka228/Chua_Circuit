@@ -19,7 +19,7 @@ file = open(restxt, 'w')
 res = []
 i = 0
 while (i < len(x)):
-    if (x[i] * y[i] * z[i] > 0):
+    if (x[i]  > 0):
         res.append(0)
         file.write('0')
     else:
