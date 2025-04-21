@@ -3,6 +3,10 @@
 
 ![bebememe](chuas_circuit_evolution_lines_close_anot_3.gif)
 
+# Starring:
+- https://github.com/OlegOpyakin - Oleg Opyakin
+- https://github.com/vka228 - Daniil Vikultsev
+
 ## Overview
 This project implements a hardware-inspired random number generator based on the chaotic behavior of Chua's circuit. There is a numerical solution of the system describing Chua circuit and algorythms for processing data from an experimental setup. 
 
